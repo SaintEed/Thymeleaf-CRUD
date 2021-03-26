@@ -1,1 +1,0 @@
-package com.deusnex.springboot.thymeleafdemo.model;
